@@ -25,6 +25,6 @@ namespace WpfUserControlExample
             InitializeComponent();
         }
     }
-
+    //Hello World I'm Sonic!!!!
     //Hola això és un comentari
 }
