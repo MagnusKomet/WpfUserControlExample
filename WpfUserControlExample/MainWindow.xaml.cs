@@ -27,4 +27,7 @@ namespace WpfUserControlExample
     }
     //Hello World I'm Sonic!!!!
     //Hola això és un comentari
+
+    // Canviii final
+
 }
